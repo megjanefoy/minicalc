@@ -7,9 +7,6 @@
  * Semester: COP4338 - Spring 2021
  * Author Megan Jane Thompson
  *
- * I affirm that this program is entirely my own work
- * and none of it is the work of any other person.
- *
  * This program acts as a calculator based on
  * command line prompts.
  */
